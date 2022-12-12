@@ -61,10 +61,20 @@ Python
 *	Data Visualization
 *	Data Engineering
 
+# Data Acquisition
 
+https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
 
+Contains: 18 features 
 
+18 thousand jobs posts are recorded with 800 of them being fake.The data consists of both textual information and meta-information about the jobs. The dataset can be used to create classification models which can learn the job descriptions which are fraudulent.
 
+# Acknowledgements
+The University of the Aegean | Laboratory of Information & Communication Systems Security
+http://emscad.samos.aegean.gr/
+
+# License
+CC0: Public Domain
 
 
 
