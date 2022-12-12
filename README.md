@@ -26,8 +26,8 @@ pip install -r requirements.txt
 
 
 
--Sindhu Bhattarai
+* Sindhu Bhattarai
 
--Sean Torres
+* Sean Torres
 
 
