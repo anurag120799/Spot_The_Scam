@@ -40,11 +40,11 @@ Fake news has existed for a very long time, nearly the same amount of time as ne
 * Sean Torres
 
 # Technology
-## Languages
+## ** Languages
 
 Python
 
-## Platform
+## ** Platform
 
 * Jupyter Notebook
 
