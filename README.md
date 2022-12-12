@@ -14,6 +14,8 @@ git init
 git clone https: git clone https://github.com/sindhubhattarai/Capstone-Project.git
 
 To install the dependacies currently used for this project 
+Refer to the Other Materials Folder
+
 pip install -r requirements.txt
 
 # Project Intro
