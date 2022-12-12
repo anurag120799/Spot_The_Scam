@@ -30,4 +30,15 @@ pip install -r requirements.txt
 
 * Sean Torres
 
+# Technology
+
+
+#Methods Used
+
+
+#Project Description
+
+
+#License
+
 
