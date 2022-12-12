@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 # Project Intro
 
-The objective of the project is puerly research based to see how well our models can detect fake job postings. Diffrent supervised models and nerual networks will be evaluated with  diffrent feature extractions to measure performance. The current hypothesis is that the nerual networks will outpefrom the base models.
+The objective of the project is puerly research based to see how well our models can detect fake job postings. Diffrent supervised models and nerual networks will be evaluated with  diffrent feature extractions to measure performance. The current hypothesis is that the nerual networks will and multilayer perceptrons will outpefrom the base models.
 
 
 
