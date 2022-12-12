@@ -41,10 +41,13 @@ Fake news has existed for a very long time, nearly the same amount of time as ne
 
 # Technology
 ## Languages
+
 Python
+
 ## Platform
 
 *Jupyter Notebook
+
 *Git
 
 
