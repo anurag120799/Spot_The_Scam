@@ -34,9 +34,10 @@ pip install -r requirements.txt
 ## Languages
 Python
 ## Platform
-Jupyter Notebook
-Git
-Mysql
+
+*Jupyter Notebook
+*Git
+*Mysql
 
 # Methods Used
 
