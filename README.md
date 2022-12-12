@@ -21,6 +21,9 @@ pip install -r requirements.txt
 # Project Intro
 
 #Contributor
+
 -Sindhu Bhattarai
 
 - Sean Torres
+
+
