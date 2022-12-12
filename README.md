@@ -31,10 +31,26 @@ pip install -r requirements.txt
 * Sean Torres
 
 # Technology
-
-
+## Languages
+Python
+## Platform
+Jupyter Notebook
+Git
+Mysql
 
 # Methods Used
+
+*	Data Mining 
+*	Machine Learning
+*	Programming 
+*	NLP
+*	Data Manipulation
+*	Data Visualization
+*	Data Engineering
+
+
+
+
 
 
 
