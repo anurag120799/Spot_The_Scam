@@ -46,9 +46,9 @@ Python
 
 ## Platform
 
-*Jupyter Notebook
+* Jupyter Notebook
 
-*Git
+* Git
 
 
 # Methods Used
