@@ -77,6 +77,8 @@ Contains: 18 features
 
 ## Data Preparation and Cleaning 
 
+![alt text](https://github.com/sindhubhattarai/Capstone-Projec/blob/master/Image%20Folder/data_preparation.png)
+
 ## Sampling Techniques
 
 * Random Up Sampling
