@@ -115,6 +115,7 @@ CC0: Public Domain
 # References
 
 Amaar, A. (2022, January 4). Detection of fake job postings by utilizing machine learning and natural language processing approaches. SpringerLink. https://link.springer.com/article/10.1007/s11063-021-10727-z?error=cookies_not_supported&code=b16269eb-5ac0-4579-8643-eaa0a3f9be9a
+
 Bhattarai, B., Granmo, O., & Jiao, L. (2020). Explainable Tsetlin Machine Framework for Fake News Detection with Credibility Score Assessment. https://aclanthology.org/2022.lrec-1.523.pdf
 
 Baraneetharan, E. (2022). Detection of fake job advertisements using machine learning algorithms. Journal of Artificial Intelligence, 4(3), 200–210. https://irojournals.com/aicn/V4/I3/06.pdf
