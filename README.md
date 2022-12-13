@@ -1,5 +1,7 @@
 # Capstone-Project
 
+## An Evaluation of Strategies Using NLP and Machine Learning To Detect Fraudulent Job Postings
+
 This project is a part of the ADS-599B course in the Applied Data Science Program at the University of San Diego. 
 
 -- Project Status: [Completed]
